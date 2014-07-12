@@ -5,4 +5,5 @@ print("hello " +name )
 yourage=input ("how old are you " + name + "? ")
 print ("so you are " + yourage + " years old.")
 daysold = int(yourage) * 365
-print("you are " + str(daysold) + " days old.")
+print("you are " + str(daysold) + " days old."
+      

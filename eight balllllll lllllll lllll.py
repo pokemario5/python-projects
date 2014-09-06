@@ -1,6 +1,6 @@
 import random
-print('ask the 8-ball:')
-question = input('> ')
+
+
 
 answers = [
     'yes',
